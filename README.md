@@ -1,7 +1,7 @@
 # Brick Breaker Game
 
 ## Overview
-This is a simple Brick Breaker game implemented in x86 assembly language. The game allows players to control a paddle to bounce a ball and break bricks on the screen. The objective is to eliminate all the bricks without letting the ball fall below the paddle.
+This is a simple Brick Breaker game implemented in x86 assembly language compiled in DOSBOX. The game allows players to control a paddle to bounce a ball and break bricks on the screen. The objective is to eliminate all the bricks without letting the ball fall below the paddle.
 
 ## Project Structure
 - `project.asm`: The main assembly file containing the game logic, including the game loop, collision detection, scoring, and rendering.
